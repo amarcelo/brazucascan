@@ -1,0 +1,13 @@
+[package]
+name = "Brazucascan"
+version = "0.1.0"
+edition = "2024"
+authors = ["Antonio Marcelo <antonmarcelo@gmail.com>"]
+description = "Simples scanner de porta. Exemplo de projeto final para o curso de Rust Básico"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/amarcelo/brazucascan"
+readme = "readme.md"
+
+[dependencies]
+termion = "1.5"
+chrono  = "0.4"
